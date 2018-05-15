@@ -18,6 +18,10 @@ nav {
   margin-left: 70px;
 }
 
+.backgroundForPixelPerfect {
+  display: none;
+}
+
 .backgroundForPixelPerfect img {
   z-index: 1;
   opacity: 0.2;
